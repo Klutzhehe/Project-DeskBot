@@ -1,4 +1,4 @@
 # Deskbot
 ## Interactive Alarm Clock
-![Front](README/DeskBot-PCB-Front)
-![alt text](README/DeskBot-PCB-BACK)
+![Front](README/DeskBot-PCB-Back.png)
+![alt text](README/DeskBot-PCB-BACK.png)
