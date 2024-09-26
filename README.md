@@ -6,4 +6,4 @@
 
 ### Schematics
 
-![Sche](Schematics/DeskBot_Schematics.pdf)
+[Sche](Schematics/DeskBot_Schematics.pdf)
